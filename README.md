@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @chaosACP
 - Linux User
 - 🌱 I’m currently learning Lua
 - 📫 How to reach me: Nousagi#0983
